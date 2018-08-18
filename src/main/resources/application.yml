@@ -1,5 +1,5 @@
 server:
-  port: 9999
+  port: 8094
 spring:
   cloud:
     config:
@@ -9,5 +9,3 @@ spring:
           
   application:
     name: configserver
-    
-  
